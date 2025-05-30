@@ -54,7 +54,7 @@ This project applies advanced Reinforcement Learning (RL) techniques to assist c
 
 ## System Architecture
 
-![System Flow Diagram](./images/system_flow.png)
+![System Flow Diagram](./images/systemflow.png)
 
 - Data from the ICU Data Warehouse → Preprocessed and aggregated  
 - RL models generate recommendations → Sent to a real-time monitoring dashboard  
